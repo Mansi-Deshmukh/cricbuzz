@@ -1,0 +1,36 @@
+#footer{
+    color: white;
+    background-color: rgb(71, 70, 70);
+   
+}
+#foot{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+#foot div{
+     margin: 10px;
+     /* border: 1px solid black; */
+     text-align: left;
+}
+ul{
+    list-style-type: none;
+    /* text-align: left; */
+}
+#footrlogo{
+    height: 60px;
+    width: 120px;
+    margin-top: 0px;
+}
+.fcont{
+    padding-top: 20px;
+}
+.fcont li{
+    margin: 15px;
+    cursor: pointer;
+}
+#fptag{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}

@@ -1,0 +1,49 @@
+#main{
+    background-color: whitesmoke;
+}
+#logintop{
+    height: 35px;
+    width: 75%;
+    background-color: rgb(12, 163, 128);
+    margin: auto;
+    padding: 10px;
+}
+#lnavlogo{
+    height: 45px;
+    width: 85px;
+    margin-top: 1px;
+}
+#contnr{
+    background-color: white;
+    height: 600px;
+    width: 77%;
+    margin: auto;
+}
+#logincon{
+    height: 60px;
+    border-bottom: 1px solid grey;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+#email{
+    margin-top: 30px;
+    width: 300px ;
+    border: none;
+    border-bottom: 1px solid grey;
+    color: grey;
+    text-decoration: none;
+   ;
+}
+#Singemail{
+    text-align: center;
+}
+#continue{
+    background-color: rgb(12, 163, 128);
+    width: 350px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    margin-top: 10px;
+}
